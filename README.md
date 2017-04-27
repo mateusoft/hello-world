@@ -1,2 +1,3 @@
 # hello-world
-I study
+Hi Everyone
+I am Mateusz.I am IT student.
